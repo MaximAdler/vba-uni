@@ -3,7 +3,7 @@
 ### Download
 
 ```
-git clone https://github.com/MaximAdler/vba-uni
+git clone https://github.com/MaximAdler/vba-uni.git
 ```
 
 ### How to use
